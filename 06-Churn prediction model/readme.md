@@ -6,3 +6,4 @@
 2.select year_month, sum จำนวน new customer ในแต่ละเดือน, count จำนวน cust_code ทั้งหมดในแต่ละ year_month\
 \
 3.Plot สัดส่วนระหว่าง new customer กับ old customer\
+![image](https://user-images.githubusercontent.com/77907226/147737370-e69092c9-75ac-4d2e-9c67-0f056c4002e6.png)
